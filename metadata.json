@@ -1,0 +1,6 @@
+{
+  "name": "Sneeze Predictor 3000",
+  "description": "Cyberpunk audio AI app powered by TensorFlow.js and YAMNet to classify real sneeze sounds with conditional 6-second countdown timers and humorous superstition gossip reports.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
